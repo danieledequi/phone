@@ -1,15 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link rel="stylesheet" href="css/style.css">
+  <title>Phone</title>
+  <link rel="icon" type="image/png" href="img/telefone.png">
+  <link rel="stylesheet" href="./style.css">
 </head>
 <body>
   
-<h1> Alura Fone </h1>
+<h1> Phone </h1>
 <section class="teclado">
    <input type="button" value="1">
    <input type="button" value="2">
@@ -24,6 +25,8 @@
    <input type="button" value="0">
    <input type="button" value="#">
  </section>
- <input type="tel" placeholder="Digite seu telefone">
+ <input class="digitar" type="tel" placeholder="Digite seu telefone">
+ <button class="limpar" onclick="limparCampos()">Limpar</button>
+ <script src="./main.js"></script>
 </body>
 </html>
