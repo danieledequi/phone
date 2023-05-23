@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 > Javascript
 
 💻 Projeto
-Você pode acessar esse projeto online: 
+Você pode acessar esse projeto online: https://danieledequi.github.io/phone/
 
 
 ![image](https://github.com/danieledequi/phone/assets/113129822/c64e2449-8f08-48ca-ad3d-d322fa393943)
